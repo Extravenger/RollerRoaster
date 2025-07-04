@@ -5,7 +5,7 @@ RollerRoaster is a powerful and user-friendly tool designed for performing Kerbe
 ## Features
 
 **Service Account List**: Identifies accounts with Service Principal Names (SPNs).
-**Optional Delay between SPN Hashes Extraction**: Delaying the process of SPN extraction to avoid AV/EDR.
+**Optional Delay between SPN Hashes Extraction**: Delaying the process of SPN extraction to avoid AV/EDR.<br>
 **SPN Hashes in Hashcat Format**: Retrieves encrypted SPN ticket's in hashcat format for offline cracking.
 
 
