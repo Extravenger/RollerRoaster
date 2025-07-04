@@ -11,7 +11,7 @@ RollerRoaster is a powerful and user-friendly tool designed for performing Kerbe
 
 ## Usage
 
-Simply download the binary from the Releases page, and execute:
+Simply download the binary or build manually, and execute:
 
 - `.\RollerRoaster.exe /domain:north.sevenkingdoms.local /list`
 
