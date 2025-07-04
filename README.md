@@ -12,7 +12,7 @@ Developed with security in mind. It incorporates features such as controlled del
 
 ## 📘 Usage
 
-Simply download the binary or build manually, and execute:
+Simply download the binary from the [Releases](https://github.com/Extravenger/RollerRoaster/releases/tag/RollerRoaster-1.0) page or build manually, and execute:
 
 - `.\RollerRoaster.exe /domain:north.sevenkingdoms.local /list`
 
