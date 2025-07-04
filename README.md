@@ -6,9 +6,9 @@ Developed with security in mind. It incorporates features such as controlled del
 ## 🔧 Features
 
 - 🔐 Identify accounts with Service Principal Names (SPNs)</br>
-- ⏳ Optional Delay between SPN Hashes Extraction requests</br>
-- 🛡️ Optional ETW Patch prior to Tickets Extraction</br>
-- 💥 SPN Hashes in Hashcat Output Format
+- ⏳ Optional delay between SPN requests</br>
+- 🛡️ Optional ETW patch prior to tickets extraction</br>
+- 🔑 SPN Hashes in hashcat output format
 
 ## 📘 Usage
 
