@@ -1,6 +1,6 @@
 # RollerRoaster 🎢
 
-RollerRoaster is a powerful tool designed for performing Kerberoasting attack in Active Directory environments.</br>
+RollerRoaster is a tool designed for performing enumeration and exploitation of Kerberoasting attack in Active Directory environments.</br>
 Built with security in mind. It incorporates features such as controlled delays between Service Principal Name (SPN) requests to avoid detection and Event Tracing for Windows (ETW) bypass to enhance stealth.
 
 ## 🔧 Features
