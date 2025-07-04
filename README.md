@@ -17,7 +17,7 @@ Simply download the binary from the Releases page, and execute:
 
 ## Demo
 
-https://github.com/user-attachments/assets/4752355f-3962-44a3-80cd-b5e6ad318ace
+https://github.com/user-attachments/assets/f602d1b2-42a6-4475-9798-e066eacedd74
 
 ## Disclaimer
 RollerRoaster is intended for authorized security testing and educational purposes only. Unauthorized use against systems you do not own or have permission to test is illegal and unethical. Use responsibly.
