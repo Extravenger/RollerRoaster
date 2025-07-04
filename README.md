@@ -5,10 +5,10 @@ Developed with security in mind. It incorporates features such as controlled del
 
 ## 🔧 Features
 
-**Service Account List**: Identify accounts with Service Principal Names (SPNs).</br>
-**Optional Delay between SPN Hashes Extraction**: Delay the process of SPN extraction to avoid AV/EDR.</br>
-**Optional ETW bypass prior tickets extraction**: Patch ETW before tickets dumping.</br>
-**SPN Hashes in Hashcat Output Format**: Retrieves encrypted SPN ticket's in hashcat format for offline cracking.
+- 🔐 Service Account List: Identify accounts with Service Principal Names (SPNs).</br>
+- ⏳ Optional Delay between SPN Hashes Extraction: Add a delay between SPN extractions to avoid detection by AV/EDR.</br>
+- 🛡️ Optional ETW Bypass prior to Tickets Extraction: Patch ETW before dumping Kerberos tickets to stay stealthy.</br>
+- 💥 SPN Hashes in Hashcat Output Format: Retrieve encrypted SPN tickets in Hashcat-compatible format for offline cracking.
 
 ## 📘 Usage
 
