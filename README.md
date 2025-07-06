@@ -20,7 +20,7 @@ Developed with stealth in mind, it incorporates features such as controlled dela
 
 ## 🎥 Demo
 
-![Alt text](Demo/RollerRoaster.gif)
+
 
 ## ⚠️ Disclaimer
 
