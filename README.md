@@ -3,7 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/Extravenger/RollerRoaster)
 
 RollerRoaster is a tool designed for performing enumeration and exploitation of Kerberoasting attack in Active Directory environments.</br>
-Developed with security in mind. It incorporates features such as controlled delays between Service Principal Name (SPN) requests to avoid detection and Event Tracing for Windows (ETW) patch to enhance stealth.
+Developed with stealth in mind, it incorporates features such as controlled delays between Service Principal Name (SPN) requests to evade detection, and an Event Tracing for Windows (ETW) patch to enhance stealth.
 
 ## 🔧 Features
 
