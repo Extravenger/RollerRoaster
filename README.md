@@ -14,13 +14,13 @@ Developed with stealth in mind, it incorporates features such as controlled dela
 
 ## 📘 Usage
 
-Simply download the binary from the [Releases](https://github.com/Extravenger/RollerRoaster/releases/tag/RollerRoaster-1.0) page or build manually, and execute:
+
 
 - `.\RollerRoaster.exe /domain:north.sevenkingdoms.local /list`
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/f602d1b2-42a6-4475-9798-e066eacedd74
+![Alt text](Demo/RollerRoaster.gif)
 
 ## ⚠️ Disclaimer
 
